@@ -1,0 +1,22 @@
+module.exports seatData= {
+    [
+        seatNumber: 1,
+        row: 'A',
+        name: 'aaaa'
+    ],
+    [
+        seatNumber: 2,
+        row: 'B',
+        name: 'bbbb'
+    ],
+    [
+        seatNumber: 3,
+        row: 'C',
+        name: 'aaaa'
+    ],
+    [
+        seatNumber: 4,
+        row: 'D',
+        name: 'aaaa'
+    ],
+}
