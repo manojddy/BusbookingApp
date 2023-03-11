@@ -1,6 +1,13 @@
-.header{
-    background-color: orange;
-    color: white;
-    font-weight: bold;
-    font-size: 40px;
+.bus{
+    border:1px solid black;
+    height: 500px;
+    width: 500px;
+}
+.seat {
+    color:black;
+}
+.container{
+    height: 900px;
+    width: 500px;
+    color: black;
 }
